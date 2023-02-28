@@ -4,7 +4,7 @@ Submitted by: Ayan Das
 
 This web app: Contains a list of personal favorite books based upon the books I have read, contains a button that can be pressed to redirect user to website where they can purchase the book, books are of various genre and author's name is also listed if users prefer a specific genre or author.
 
-Time spent: 6 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
