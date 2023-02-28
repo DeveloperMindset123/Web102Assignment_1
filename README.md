@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/DeveloperMindset123/Web102Assignment_1/blob/main/Recording%202023-02-27%20at%2023.25.59.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/DeveloperMindset123/Web102Assignment_1/blob/main/Web102Assignment1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ScreenToGif  
